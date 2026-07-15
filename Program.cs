@@ -1,4 +1,5 @@
-﻿using ConsoleApp1.Syntax.Variable_Syntax;
+﻿using ConsoleApp1.Example;
+using ConsoleApp1.Syntax.Variable_Syntax;
 
 namespace ConsoleApp1
 {
@@ -6,15 +7,27 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Variable obj = new Variable();
+            VaraiblePracticeExamplecs obj = new VaraiblePracticeExamplecs();
+
+            obj.AcceptBirthYear();
+            obj.AgeCalculator();
+
+            //obj.AcceptShoppingBill();
+            //obj.ShoppingBill();
+
+            //obj.AcceptSalary();
+            //obj.EmployeeSalaryCalculation();
+
+
+            //Variable obj = new Variable();
             //obj.VariableSyntax();
             //obj.ConstantSyntaxt();
             //obj.PrimitiveDatatype();
             //obj.Implicity();
             //obj.Explicity();
-            obj.Convertp();
+            //obj.Convertp();
             //obj.Parse();
-            
+
 
 
             //Console.WriteLine("Hello, World!");

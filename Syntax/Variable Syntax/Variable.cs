@@ -89,5 +89,11 @@ namespace ConsoleApp1.Syntax.Variable_Syntax
             Console.WriteLine(intvalue.GetType());
 
         }
+
+
+
+
+       
     }
 }
+
