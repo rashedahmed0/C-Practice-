@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Xml.Serialization;
 
@@ -7,136 +8,49 @@ namespace ConsoleApp1.Example
 {
     public class VaraiblePracticeExamplecs
     {
-        public void VariablePractice()
+      public void VariablePractice()
         {
-            int age = 10;
-            double height = 5.6;
-            string name = "Rial ahmed";
+            // DataType variableName = value ; 
+            int age = 26;
+            string name = "Rial Ahmed";
             bool isStudent = true;
-            decimal salary = 12000.00m;
+            bool isMarried = false;
             char star = '*';
+            double salary = 12000.00;
+            float height = 5.6f;
+            decimal price = 100.50m;
 
-            Console.WriteLine(age + name + height + isStudent + salary + star);
+
+            Console.WriteLine("age is ; " + age);
+            Console.WriteLine("name is : " + name);
+            Console.WriteLine("is he strudnet : " + isStudent);
+            Console.WriteLine("star is : " + star);
+            Console.WriteLine("salary is : " + salary);
+            Console.WriteLine("height is : " + height);
+            Console.WriteLine("price is : " + price);
+
 
         }
 
-
-        //Problem 1: Student Result
-        string math, english;
-
-        public void AcceptMarks()
+        public void TypeConvertion()
         {
-            Console.WriteLine("enter the math Marks : ");
-            math = Console.ReadLine();
+            //string to double
+            string strNubmer1 = "2.5";
+            double doubleNubmer1 = double.Parse(strNubmer1);
+            Console.WriteLine("string to double : " + doubleNubmer1);
+            int intNubmer1 = (int)doubleNubmer1; //explicit  conversion from double to int
+            Console.WriteLine("double to int : " + intNubmer1);
+            int intNubmer2 = Convert.ToInt32(doubleNubmer1); //explicit conversion from double to int
 
-            Console.WriteLine("enter the english Marks");
-            english = Console.ReadLine();
+
+            decimal price = 99.99m;
+            double amount = (double)price; //explicit conversion from decimal to double
+            Console.WriteLine("decimal to double : " + amount);
+            double price2 = 99.20;
+            decimal amount2 = (decimal)price2; //explicit conversion from double to decimal
         }
 
-
-
-        public void MarksVariablePractice()
-        {
-            string mathStr = math;
-            string englishStr = english;
-
-            int mathMarks = int.Parse(mathStr);
-            int englishMarks = Convert.ToInt32(englishStr);
-
-            int avergeMarks = (mathMarks + englishMarks) / 2;
-            Console.WriteLine("averge of math and english is : " + avergeMarks);
-
-            int totalMarks = mathMarks + englishMarks;
-            Console.WriteLine("TOTAL number of math and english is : " + totalMarks);
-
-            int differenceMarks = englishMarks - mathMarks;
-            Console.WriteLine("Average between math and englsih is : " + differenceMarks);
-        }
-
-
-
-        //Problem 2: Employee Salary Calculation
-        string salary, tax, bonous;
-
-        public void AcceptSalary()
-        {
-            Console.WriteLine("enter your Salary : ");
-            salary = Console.ReadLine();
-            Console.WriteLine("enter your Tax : ");
-            tax = Console.ReadLine();
-            Console.WriteLine("enter your Bonous : ");
-            bonous = Console.ReadLine();
-        }
-
-        public void EmployeeSalaryCalculation()
-        {
-            string salaryStr = salary;
-            int salaryInt = int.Parse(salaryStr);
-            string taxStr = tax;
-            int taxInt = Convert.ToInt32(taxStr);
-            string bonousStr = bonous;
-            int bonousInt = Convert.ToInt32(bonousStr);
-
-            int grossSalary = salaryInt + bonousInt;
-            Console.WriteLine("gross salary is : " + grossSalary);
-            int netSalary = grossSalary - taxInt;
-            Console.WriteLine("net salary is : " + netSalary);
-        }
-
-
-        //Problem 3: Shopping Bill
-
-        string rice, oil, sugar;
        
-        public void AcceptShoppingBill()
-        {
-            Console.WriteLine("Enter the Rice bill : ");
-            rice = Console.ReadLine();
-            Console.WriteLine("Enter the Oil bill : ");
-            oil = Console.ReadLine(); 
-            Console.WriteLine("Enter the Suger bill : ");
-            sugar = Console.ReadLine();
-
-        }
-
-        public void ShoppingBill()
-        {
-            string riceStr  = rice; 
-            int riceInt = int.Parse(riceStr);
-
-            string oilStr = oil;
-            int oilInt = Convert.ToInt32(oilStr);
-
-            string sugarStr = sugar;
-            int sugarInt = Convert.ToInt32(sugarStr);
-
-            int total = riceInt + oilInt + sugarInt;
-
-            int vat10 = (total * 10) / 100;
-            int bill = total = vat10;
-
-            Console.WriteLine("total price is : " + total);
-            Console.WriteLine("vat is : " + vat10);
-            Console.WriteLine("total bill is : " + bill);
-
-        }
-
-        //Problem 4: Age Calculator
-
-        string BithYear; 
-        public void AcceptBirthYear()
-        {
-            Console.WriteLine("Enter your Birth Year : ");
-            BithYear = Console.ReadLine();
-        }
-        public void AgeCalculator()
-        {
-            string birthYearStr = BithYear;
-            int birthYearInt = int.Parse(birthYearStr);
-            int currentYear = 2026;
-            int age = currentYear - birthYearInt;
-            Console.WriteLine("Your Age is : " + age);
-        }
 
     }
 }

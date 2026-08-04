@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:example\\varaiblepracticeexamplecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\example\\operatorproblemexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:example\\operatorproblemexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\syntax\\variable syntax\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:syntax\\variable syntax\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,26 +62,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperatorProblemExample.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\OperatorProblemExample.cs",
+              "RelativeDocumentMoniker": "Example\\OperatorProblemExample.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Example\\OperatorProblemExample.cs",
+              "RelativeToolTip": "Example\\OperatorProblemExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T17:14:33.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "VaraiblePracticeExamplecs.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\VaraiblePracticeExamplecs.cs",
               "RelativeDocumentMoniker": "Example\\VaraiblePracticeExamplecs.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Example\\VaraiblePracticeExamplecs.cs",
-              "RelativeToolTip": "Example\\VaraiblePracticeExamplecs.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAUwH4AAAAjAAAAAAAAAA==",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Example\\VaraiblePracticeExamplecs.cs*",
+              "RelativeToolTip": "Example\\VaraiblePracticeExamplecs.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T17:50:52.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Variable.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Syntax\\Variable Syntax\\Variable.cs",
               "RelativeDocumentMoniker": "Syntax\\Variable Syntax\\Variable.cs",
               "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Syntax\\Variable Syntax\\Variable.cs",
               "RelativeToolTip": "Syntax\\Variable Syntax\\Variable.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAjwFsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAtwFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T03:25:18.391Z",
               "EditorCaption": ""
@@ -88,9 +105,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T03:18:01.4Z",
               "EditorCaption": ""

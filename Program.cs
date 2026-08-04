@@ -8,25 +8,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             VaraiblePracticeExamplecs obj = new VaraiblePracticeExamplecs();
-
-            obj.AcceptBirthYear();
-            obj.AgeCalculator();
-
-            //obj.AcceptShoppingBill();
-            //obj.ShoppingBill();
-
-            //obj.AcceptSalary();
-            //obj.EmployeeSalaryCalculation();
-
-
-            //Variable obj = new Variable();
-            //obj.VariableSyntax();
-            //obj.ConstantSyntaxt();
-            //obj.PrimitiveDatatype();
-            //obj.Implicity();
-            //obj.Explicity();
-            //obj.Convertp();
-            //obj.Parse();
+            //obj.VariablePractice();
+            obj.TypeConvertion();
 
 
 
