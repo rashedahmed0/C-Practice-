@@ -50,7 +50,28 @@ namespace ConsoleApp1.Example
             decimal amount2 = (decimal)price2; //explicit conversion from double to decimal
         }
 
-       
+        public void ExplicitExample()
+        {
+            Console.WriteLine("Explicit Example");
+            double number = 99.99;
+            int value = (int)number; //explicit conversion from double to int
+            float floatNumber = (float)number; //explicit conversion from double to float
+            Console.WriteLine("double Number " + number);
+            Console.WriteLine("int value " + value);
+            Console.WriteLine("float value " + floatNumber);
+        }
+
+        public void ImplicitExmaple()
+        {
+            Console.WriteLine("Implicit Example");
+            int number = 100; 
+            float floatNumber = number; //implicit conversion from int to float
+            double doubleNumber = number; //implicit conversion from int to double
+            Console.WriteLine("int Number " + number);
+            Console.WriteLine("float value " + floatNumber);
+            Console.WriteLine("double value " + doubleNumber);
+        }
+
 
     }
 }
