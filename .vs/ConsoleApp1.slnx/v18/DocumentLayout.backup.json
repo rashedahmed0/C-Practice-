@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\C# Practice\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\problem solving\\variable\\hospitalpatientsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:problem solving\\variable\\hospitalpatientsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\problem solving\\variable\\mobilerechargesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:problem solving\\variable\\mobilerechargesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\problem solving\\variable\\librarymanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:problem solving\\variable\\librarymanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\problem solving\\variable\\hospitalpatientsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:problem solving\\variable\\hospitalpatientsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\problem solving\\variable\\bankaccountsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,33 +90,95 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "MobileRechargeSystem.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\MobileRechargeSystem.cs",
+              "RelativeDocumentMoniker": "Problem Solving\\Variable\\MobileRechargeSystem.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\MobileRechargeSystem.cs*",
+              "RelativeToolTip": "Problem Solving\\Variable\\MobileRechargeSystem.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T17:15:48.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryManagementSystem.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\LibraryManagementSystem.cs",
+              "RelativeDocumentMoniker": "Problem Solving\\Variable\\LibraryManagementSystem.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\LibraryManagementSystem.cs",
+              "RelativeToolTip": "Problem Solving\\Variable\\LibraryManagementSystem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T16:52:58.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HospitalPatientSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\HospitalPatientSystem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Variable\\HospitalPatientSystem.cs",
               "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\HospitalPatientSystem.cs",
               "RelativeToolTip": "Problem Solving\\Variable\\HospitalPatientSystem.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwDEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-05T16:21:55.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BankAccountSystem.cs",
-              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\BankAccountSystem.cs",
-              "RelativeDocumentMoniker": "Problem Solving\\Variable\\BankAccountSystem.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\BankAccountSystem.cs",
-              "RelativeToolTip": "Problem Solving\\Variable\\BankAccountSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "OperatorProblemExample.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\OperatorProblemExample.cs",
+              "RelativeDocumentMoniker": "Example\\OperatorProblemExample.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Example\\OperatorProblemExample.cs",
+              "RelativeToolTip": "Example\\OperatorProblemExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T15:58:41.937Z",
+              "WhenOpened": "2026-07-15T17:14:33.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VaraiblePracticeExamplecs.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\VaraiblePracticeExamplecs.cs",
+              "RelativeDocumentMoniker": "Example\\VaraiblePracticeExamplecs.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Example\\VaraiblePracticeExamplecs.cs",
+              "RelativeToolTip": "Example\\VaraiblePracticeExamplecs.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwD8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T17:50:52.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T03:18:01.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "StudentInformationSystem.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\StudentInformationSystem.cs",
+              "RelativeDocumentMoniker": "Problem Solving\\Variable\\StudentInformationSystem.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\StudentInformationSystem.cs",
+              "RelativeToolTip": "Problem Solving\\Variable\\StudentInformationSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T18:19:01.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ShoppingBillSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\ShoppingBillSystem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Variable\\ShoppingBillSystem.cs",
@@ -121,56 +191,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentInformationSystem.cs",
-              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\StudentInformationSystem.cs",
-              "RelativeDocumentMoniker": "Problem Solving\\Variable\\StudentInformationSystem.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\StudentInformationSystem.cs",
-              "RelativeToolTip": "Problem Solving\\Variable\\StudentInformationSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "BankAccountSystem.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\BankAccountSystem.cs",
+              "RelativeDocumentMoniker": "Problem Solving\\Variable\\BankAccountSystem.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\BankAccountSystem.cs",
+              "RelativeToolTip": "Problem Solving\\Variable\\BankAccountSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T18:19:01.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OperatorProblemExample.cs",
-              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\OperatorProblemExample.cs",
-              "RelativeDocumentMoniker": "Example\\OperatorProblemExample.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Example\\OperatorProblemExample.cs",
-              "RelativeToolTip": "Example\\OperatorProblemExample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T17:14:33.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VaraiblePracticeExamplecs.cs",
-              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\VaraiblePracticeExamplecs.cs",
-              "RelativeDocumentMoniker": "Example\\VaraiblePracticeExamplecs.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Example\\VaraiblePracticeExamplecs.cs",
-              "RelativeToolTip": "Example\\VaraiblePracticeExamplecs.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAYwD8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T17:50:52.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T03:18:01.4Z",
+              "WhenOpened": "2026-08-05T15:58:41.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EmployeeInformationSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\EmployeeInformationSystem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Variable\\EmployeeInformationSystem.cs",

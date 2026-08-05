@@ -8,10 +8,17 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            ExamResultSystem obj = new ExamResultSystem();
+            obj.AcceptExamResultInformation();
 
 
-            LibraryManagementSystem obj = new LibraryManagementSystem();
-            obj.AcceptLibraryInformatnio();
+
+            // MobileRechargeSystem obj = new MobileRechargeSystem();
+            //obj.AcceptMobileRechargeInformations();
+
+
+            //LibraryManagementSystem obj = new LibraryManagementSystem();
+            //obj.AcceptLibraryInformatnio();
 
 
             //HospitalPatientSystem obj = new HospitalPatientSystem();
@@ -61,6 +68,6 @@ namespace ConsoleApp1
 
 
             //Console.WriteLine("Hello, World!");
-        }
     }
+}
 }
