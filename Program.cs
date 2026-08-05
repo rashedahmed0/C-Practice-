@@ -9,10 +9,29 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            ShoppingBillSystem obj = new ShoppingBillSystem();
-            obj.AcceptShoppingBillInformation();
-            obj.DisplayShoppingBillInformation();
-            obj.CalculateTotalBill();
+
+            LibraryManagementSystem obj = new LibraryManagementSystem();
+            obj.AcceptLibraryInformatnio();
+
+
+            //HospitalPatientSystem obj = new HospitalPatientSystem();
+            //obj.AcceptHospitalPatientInformation();
+            //obj.DisplayHospitalPatientInformation();
+
+
+
+
+            //BankAccountSystem obj = new BankAccountSystem();
+            //obj.AcceptBankAccountInformation();
+            //obj.DisplayBankAccountInformation();
+            //obj.CalculateBankAccout();
+
+
+
+            //ShoppingBillSystem obj = new ShoppingBillSystem();
+            //obj.AcceptShoppingBillInformation();
+            //obj.DisplayShoppingBillInformation();
+            //obj.CalculateTotalBill();
 
 
 
