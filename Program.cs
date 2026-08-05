@@ -8,10 +8,25 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            StudentInformationSystem obj = new StudentInformationSystem();
-            obj.AcceptStudentInformation();
-            obj.DisplayStudentInformation();
-            obj.CalculateGPA();
+
+            ShoppingBillSystem obj = new ShoppingBillSystem();
+            obj.AcceptShoppingBillInformation();
+            obj.DisplayShoppingBillInformation();
+            obj.CalculateTotalBill();
+
+
+
+
+            //EmployeeInformationSystem obj = new EmployeeInformationSystem();
+            //obj.AcceptEmployeeInformation();
+            //obj.DisplayEmployeeInformation();
+            //obj.SalaryCalculation();
+
+
+            //StudentInformationSystem obj = new StudentInformationSystem();
+            //obj.AcceptStudentInformation();
+            //obj.DisplayStudentInformation();
+            //obj.CalculateGPA();
 
 
 
