@@ -8,8 +8,15 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            ExamResultSystem obj = new ExamResultSystem();
-            obj.AcceptExamResultInformation();
+            OperatorProblemExample obj = new OperatorProblemExample();
+            obj.ArithmeticOperator();
+            obj.AssignmentOperator();
+            obj.ComparisonOperator();
+
+
+
+            //ExamResultSystem obj = new ExamResultSystem();
+            //obj.AcceptExamResultInformation();
 
 
 
