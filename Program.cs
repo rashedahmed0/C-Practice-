@@ -10,10 +10,27 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            EmployeeSalaryManagement obj = new EmployeeSalaryManagement();
-            obj.AcceptEployeeInfo();
-            obj.DisplayEmployeeInfo();
-            obj.CalculateEmployeeSalary();
+
+
+
+
+            //OperatorShoppingBillSystem obj = new OperatorShoppingBillSystem();
+            //obj.AcceptShoppingBillInfo();
+            //obj.DisplayShoppingBillInfo();
+            //obj.CalculationBillInfo();
+
+
+
+            //OperatorBankAccountSystem obj = new OperatorBankAccountSystem();
+            //obj.AcceptAccountInfo();
+            //obj.DisplayAccountInfo();
+            //obj.CalculateAccountBalance();
+
+
+            //EmployeeSalaryManagement obj = new EmployeeSalaryManagement();
+            //obj.AcceptEployeeInfo();
+            //obj.DisplayEmployeeInfo();
+            //obj.CalculateEmployeeSalary();
 
 
 
@@ -92,6 +109,6 @@ namespace ConsoleApp1
 
 
             //Console.WriteLine("Hello, World!");
-    }
+        }
 }
 }
