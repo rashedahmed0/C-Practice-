@@ -9,10 +9,18 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            StudentResultSystem obj = new StudentResultSystem();
-            obj.AcceptStudentInfo();
-            obj.DisplayStudentInfo();
-            obj.CalculationStudentOperator();
+
+            EmployeeSalaryManagement obj = new EmployeeSalaryManagement();
+            obj.AcceptEployeeInfo();
+            obj.DisplayEmployeeInfo();
+            obj.CalculateEmployeeSalary();
+
+
+
+            //StudentResultSystem obj = new StudentResultSystem();
+            //obj.AcceptStudentInfo();
+            //obj.DisplayStudentInfo();
+            //obj.CalculationStudentOperator();
 
 
 
