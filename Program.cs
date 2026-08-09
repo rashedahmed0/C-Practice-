@@ -1,4 +1,5 @@
 ﻿using ConsoleApp1.Example;
+using ConsoleApp1.Problem_Solving.Operator;
 using ConsoleApp1.Problem_Solving.Variable;
 using ConsoleApp1.Syntax.Variable_Syntax;
 
@@ -8,10 +9,18 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            OperatorProblemExample obj = new OperatorProblemExample();
-            obj.ArithmeticOperator();
-            obj.AssignmentOperator();
-            obj.ComparisonOperator();
+            StudentResultSystem obj = new StudentResultSystem();
+            obj.AcceptStudentInfo();
+            obj.DisplayStudentInfo();
+            obj.CalculationStudentOperator();
+
+
+
+
+            //OperatorProblemExample obj = new OperatorProblemExample();
+            //obj.ArithmeticOperator();
+            //obj.AssignmentOperator();
+            //obj.ComparisonOperator();
 
 
 
