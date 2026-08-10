@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\problem solving\\operator\\operatorelectricitybillcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:problem solving\\operator\\operatorelectricitybillcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\problem solving\\operator\\operatormobilerechargesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:problem solving\\operator\\operatormobilerechargesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\problem solving\\operator\\operatorhospitalbillingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:problem solving\\operator\\operatorhospitalbillingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\problem solving\\operator\\operatorshoppingbillsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:problem solving\\operator\\operatorshoppingbillsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -80,7 +92,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswA4AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T03:18:01.4Z",
               "IsPinned": true,
@@ -89,27 +101,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OperatorShoppingBillSystem.cs",
-              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Operator\\OperatorShoppingBillSystem.cs",
-              "RelativeDocumentMoniker": "Problem Solving\\Operator\\OperatorShoppingBillSystem.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Operator\\OperatorShoppingBillSystem.cs*",
-              "RelativeToolTip": "Problem Solving\\Operator\\OperatorShoppingBillSystem.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Title": "OperatorElectricityBillCalculator.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Operator\\OperatorElectricityBillCalculator.cs",
+              "RelativeDocumentMoniker": "Problem Solving\\Operator\\OperatorElectricityBillCalculator.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Operator\\OperatorElectricityBillCalculator.cs",
+              "RelativeToolTip": "Problem Solving\\Operator\\OperatorElectricityBillCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T16:56:01.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OperatorBankAccountSystem.cs",
-              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Operator\\OperatorBankAccountSystem.cs",
-              "RelativeDocumentMoniker": "Problem Solving\\Operator\\OperatorBankAccountSystem.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Operator\\OperatorBankAccountSystem.cs",
-              "RelativeToolTip": "Problem Solving\\Operator\\OperatorBankAccountSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T16:20:50.906Z",
+              "WhenOpened": "2026-08-10T03:17:11.139Z",
               "EditorCaption": ""
             },
             {
@@ -150,7 +149,57 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperatorMobileRechargeSystem.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Operator\\OperatorMobileRechargeSystem.cs",
+              "RelativeDocumentMoniker": "Problem Solving\\Operator\\OperatorMobileRechargeSystem.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Operator\\OperatorMobileRechargeSystem.cs",
+              "RelativeToolTip": "Problem Solving\\Operator\\OperatorMobileRechargeSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T02:53:01.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "OperatorHospitalBillingSystem.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Operator\\OperatorHospitalBillingSystem.cs",
+              "RelativeDocumentMoniker": "Problem Solving\\Operator\\OperatorHospitalBillingSystem.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Operator\\OperatorHospitalBillingSystem.cs",
+              "RelativeToolTip": "Problem Solving\\Operator\\OperatorHospitalBillingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T17:43:00.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperatorShoppingBillSystem.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Operator\\OperatorShoppingBillSystem.cs",
+              "RelativeDocumentMoniker": "Problem Solving\\Operator\\OperatorShoppingBillSystem.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Operator\\OperatorShoppingBillSystem.cs",
+              "RelativeToolTip": "Problem Solving\\Operator\\OperatorShoppingBillSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T16:56:01.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperatorBankAccountSystem.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Operator\\OperatorBankAccountSystem.cs",
+              "RelativeDocumentMoniker": "Problem Solving\\Operator\\OperatorBankAccountSystem.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Operator\\OperatorBankAccountSystem.cs",
+              "RelativeToolTip": "Problem Solving\\Operator\\OperatorBankAccountSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T16:20:50.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EmployeeSalaryManagement.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Operator\\EmployeeSalaryManagement.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Operator\\EmployeeSalaryManagement.cs",
@@ -158,12 +207,11 @@
               "RelativeToolTip": "Problem Solving\\Operator\\EmployeeSalaryManagement.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAUwDoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T03:50:26.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T03:50:26.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "StudentResultSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Operator\\StudentResultSystem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Operator\\StudentResultSystem.cs",
@@ -175,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "HospitalPatientSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\HospitalPatientSystem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Variable\\HospitalPatientSystem.cs",
@@ -187,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "VaraiblePracticeExamplecs.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\VaraiblePracticeExamplecs.cs",
               "RelativeDocumentMoniker": "Example\\VaraiblePracticeExamplecs.cs",
@@ -199,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "OperatorProblemExample.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\OperatorProblemExample.cs",
               "RelativeDocumentMoniker": "Example\\OperatorProblemExample.cs",
@@ -211,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "LibraryManagementSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\LibraryManagementSystem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Variable\\LibraryManagementSystem.cs",
@@ -223,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ExamResultSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\ExamResultSystem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Variable\\ExamResultSystem.cs",
@@ -235,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "MobileRechargeSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\MobileRechargeSystem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Variable\\MobileRechargeSystem.cs",
@@ -247,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "StudentInformationSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\StudentInformationSystem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Variable\\StudentInformationSystem.cs",
@@ -259,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ShoppingBillSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\ShoppingBillSystem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Variable\\ShoppingBillSystem.cs",
@@ -271,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "BankAccountSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\BankAccountSystem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Variable\\BankAccountSystem.cs",
@@ -283,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "EmployeeInformationSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Variable\\EmployeeInformationSystem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Variable\\EmployeeInformationSystem.cs",

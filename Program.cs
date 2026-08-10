@@ -9,8 +9,27 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            OnlineCourseManagement obj = new OnlineCourseManagement();
+            obj.AcceptOnlineCourse();
+            obj.DisplayOnlineClass();
 
 
+            //OperatorElectricityBillCalculator obj = new OperatorElectricityBillCalculator();
+            //obj.ElectricityBillCalculator();
+            //obj.DisplayElectricityBill();
+            //obj.CalculateElectricityBill();
+
+
+
+            //OperatorMobileRechargeSystem obj = new OperatorMobileRechargeSystem();
+            //obj.MobileReachargeSytemInfo();
+            //obj.DisplayMobileReachargeSystem();
+            //obj.CalculateMobileReacharge();
+
+            //OperatorHospitalBillingSystem obj = new OperatorHospitalBillingSystem();
+            //obj.HospitalBillingSytemInfo();
+            //obj.DisplayHospitalBillingSystem();
+            //obj.CalculateHospitalBilling();
 
 
 
