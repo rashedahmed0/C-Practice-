@@ -9,9 +9,14 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            OnlineCourseManagement obj = new OnlineCourseManagement();
-            obj.AcceptOnlineCourse();
-            obj.DisplayOnlineClass();
+
+            InputOutputExample obj = new InputOutputExample();
+            obj.OutputExample();
+
+
+            //OnlineCourseManagement obj = new OnlineCourseManagement();
+            //obj.AcceptOnlineCourse();
+            //obj.DisplayOnlineClass();
 
 
             //OperatorElectricityBillCalculator obj = new OperatorElectricityBillCalculator();
