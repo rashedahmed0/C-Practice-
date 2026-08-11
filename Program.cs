@@ -9,9 +9,16 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Condition obj = new Condition();
+            //obj.IfExample();
+            //obj.IfElseExample();
+            //obj.Nestedif();
+            //obj.ElseIfExample();
+            //obj.switchExample();
+            obj.SwitchExpression();
 
-            InputOutputExample obj = new InputOutputExample();
-            obj.OutputExample();
+            //InputOutputExample obj = new InputOutputExample();
+            //obj.OutputExample();
 
 
             //OnlineCourseManagement obj = new OnlineCourseManagement();

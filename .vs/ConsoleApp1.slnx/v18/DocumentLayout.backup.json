@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\C# Practice\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\example\\inputoutputexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:example\\inputoutputexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\example\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:example\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\example\\inputoutputexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:example\\inputoutputexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvw0AAAAgAAAAAAAAAA==",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T03:18:01.4Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InputOutputExample.cs",
-              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\InputOutputExample.cs",
-              "RelativeDocumentMoniker": "Example\\InputOutputExample.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Example\\InputOutputExample.cs",
-              "RelativeToolTip": "Example\\InputOutputExample.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T03:23:04.015Z",
               "EditorCaption": ""
             },
             {
@@ -82,6 +73,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Condition.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\Condition.cs",
+              "RelativeDocumentMoniker": "Example\\Condition.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Example\\Condition.cs*",
+              "RelativeToolTip": "Example\\Condition.cs*",
+              "ViewState": "AgIAAGcAAAAAAAAAAADwv20AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T17:02:38.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputOutputExample.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\InputOutputExample.cs",
+              "RelativeDocumentMoniker": "Example\\InputOutputExample.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Example\\InputOutputExample.cs",
+              "RelativeToolTip": "Example\\InputOutputExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T03:23:04.015Z",
+              "EditorCaption": ""
             }
           ]
         }
