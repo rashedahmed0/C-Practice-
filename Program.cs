@@ -1,7 +1,9 @@
 ﻿using ConsoleApp1.Example;
+using ConsoleApp1.Problem_Solving.Condition.BasicProblem;
 using ConsoleApp1.Problem_Solving.Operator;
 using ConsoleApp1.Problem_Solving.Variable;
 using ConsoleApp1.Syntax.Variable_Syntax;
+using System.Net.Http.Headers;
 
 namespace ConsoleApp1
 {
@@ -9,13 +11,23 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Condition obj = new Condition();
+            IfElseProblem obj = new IfElseProblem();
+            obj.IfElseProblemPractice();
+
+
+
+            //IfExample obj = new IfExample();
+            //obj.IfProblemFirst();
+
+
+
+            //Condition obj = new Condition();
             //obj.IfExample();
             //obj.IfElseExample();
             //obj.Nestedif();
             //obj.ElseIfExample();
             //obj.switchExample();
-            obj.SwitchExpression();
+            //obj.SwitchExpression();
 
             //InputOutputExample obj = new InputOutputExample();
             //obj.OutputExample();
