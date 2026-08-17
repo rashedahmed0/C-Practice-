@@ -11,8 +11,17 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            IfElseProblem obj = new IfElseProblem();
-            obj.IfElseProblemPractice();
+
+            SwitchProblem obj = new SwitchProblem();
+            obj.FoodOrderingSystem();
+            //obj.MenuDrivenProgram();
+            //obj.TrafficSignal();
+
+
+
+
+            //IfElseProblem obj = new IfElseProblem();
+            //obj.IfElseProblemPractice();
 
 
 
