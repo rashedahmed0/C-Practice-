@@ -12,7 +12,13 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             LoopExmaple obj = new();
-            obj.ForExmaple();
+            //obj.ForExmaple();
+            //obj.WhileLoopExample();
+            //obj.DoWhileLoopExample();
+            //obj.ForEachLoopExample();
+            //obj.NestedLoopExample();
+            obj.ContinueLoopExample();
+            obj.BreakLoopExample();
 
 
 

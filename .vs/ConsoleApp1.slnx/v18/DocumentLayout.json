@@ -58,25 +58,12 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAdAAAAAAAAAA==",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T03:18:01.4Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoopExmaple.cs",
-              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\LoopExmaple.cs",
-              "RelativeDocumentMoniker": "Example\\LoopExmaple.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Example\\LoopExmaple.cs*",
-              "RelativeToolTip": "Example\\LoopExmaple.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T18:00:40.081Z",
               "EditorCaption": ""
             },
             {
@@ -114,6 +101,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoopExmaple.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\LoopExmaple.cs",
+              "RelativeDocumentMoniker": "Example\\LoopExmaple.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Example\\LoopExmaple.cs",
+              "RelativeToolTip": "Example\\LoopExmaple.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv0sAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T18:00:40.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
