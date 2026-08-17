@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\example\\loopexmaple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:example\\loopexmaple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\problem solving\\condition\\basicproblem\\switchproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:problem solving\\condition\\basicproblem\\switchproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -56,7 +60,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T03:18:01.4Z",
               "IsPinned": true,
@@ -65,27 +69,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SwitchProblem.cs",
-              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\SwitchProblem.cs",
-              "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\SwitchProblem.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\SwitchProblem.cs*",
-              "RelativeToolTip": "Problem Solving\\Condition\\BasicProblem\\SwitchProblem.cs*",
-              "ViewState": "AgIAACUAAAAAAAAAAAAYwC8AAAAmAAAAAAAAAA==",
+              "Title": "LoopExmaple.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\LoopExmaple.cs",
+              "RelativeDocumentMoniker": "Example\\LoopExmaple.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Example\\LoopExmaple.cs*",
+              "RelativeToolTip": "Example\\LoopExmaple.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T02:36:30.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NestedifProblem.cs",
-              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\NestedifProblem.cs",
-              "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\NestedifProblem.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\NestedifProblem.cs",
-              "RelativeToolTip": "Problem Solving\\Condition\\BasicProblem\\NestedifProblem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T03:17:18.536Z",
+              "WhenOpened": "2026-08-17T18:00:40.081Z",
               "EditorCaption": ""
             },
             {
@@ -126,7 +117,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwitchProblem.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\SwitchProblem.cs",
+              "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\SwitchProblem.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\SwitchProblem.cs",
+              "RelativeToolTip": "Problem Solving\\Condition\\BasicProblem\\SwitchProblem.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwC8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T02:36:30.761Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "NestedifProblem.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\NestedifProblem.cs",
+              "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\NestedifProblem.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\NestedifProblem.cs",
+              "RelativeToolTip": "Problem Solving\\Condition\\BasicProblem\\NestedifProblem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T03:17:18.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ElseIfProblem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\ElseIfProblem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\ElseIfProblem.cs",
@@ -134,12 +149,11 @@
               "RelativeToolTip": "Problem Solving\\Condition\\BasicProblem\\ElseIfProblem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T16:48:27.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-12T16:48:27.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IfElseProblem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\IfElseProblem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\IfElseProblem.cs",
@@ -151,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IfExample.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\IfExample.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\IfExample.cs",
@@ -163,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ConsoleApp1.csproj",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\ConsoleApp1.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1.csproj",
@@ -175,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Condition.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\Condition.cs",
               "RelativeDocumentMoniker": "Example\\Condition.cs",
@@ -187,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "InputOutputExample.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\InputOutputExample.cs",
               "RelativeDocumentMoniker": "Example\\InputOutputExample.cs",

@@ -11,11 +11,16 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            LoopExmaple obj = new();
+            obj.ForExmaple();
 
-            SwitchProblem obj = new SwitchProblem();
-            obj.FoodOrderingSystem();
-            //obj.MenuDrivenProgram();
-            //obj.TrafficSignal();
+
+
+
+            //SwitchProblem obj = new SwitchProblem();
+            //obj.FoodOrderingSystem();
+            ////obj.MenuDrivenProgram();
+            ////obj.TrafficSignal();
 
 
 
