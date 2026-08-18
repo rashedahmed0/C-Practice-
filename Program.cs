@@ -1,5 +1,6 @@
 ﻿using ConsoleApp1.Example;
 using ConsoleApp1.Problem_Solving.Condition.BasicProblem;
+using ConsoleApp1.Problem_Solving.Loop;
 using ConsoleApp1.Problem_Solving.Operator;
 using ConsoleApp1.Problem_Solving.Variable;
 using ConsoleApp1.Syntax.Variable_Syntax;
@@ -11,14 +12,23 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            LoopExmaple obj = new();
+            LoopProblemSolving obj = new LoopProblemSolving();
+            //obj.StudentMarksSystem();
+            //obj.EvenOddAnalyzer();
+            //obj.NumberGuessingGame();
+            obj.LoginSystem();
+
+
+
+
+            //LoopExmaple obj = new();
             //obj.ForExmaple();
             //obj.WhileLoopExample();
             //obj.DoWhileLoopExample();
             //obj.ForEachLoopExample();
             //obj.NestedLoopExample();
-            obj.ContinueLoopExample();
-            obj.BreakLoopExample();
+            //obj.ContinueLoopExample();
+            //obj.BreakLoopExample();
 
 
 
