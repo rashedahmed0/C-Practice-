@@ -62,9 +62,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T03:18:01.4Z",
               "IsPinned": true,
@@ -114,7 +114,7 @@
               "RelativeDocumentMoniker": "Problem Solving\\Loop\\LoopProblemSolving.cs",
               "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Loop\\LoopProblemSolving.cs",
               "RelativeToolTip": "Problem Solving\\Loop\\LoopProblemSolving.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAYwIoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAI8AAAAAAAAAAADwv5kAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-18T16:24:39.271Z",
               "EditorCaption": ""
@@ -129,8 +129,7 @@
               "RelativeToolTip": "Example\\LoopExmaple.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAwwDwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T18:00:40.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-17T18:00:40.081Z"
             },
             {
               "$type": "Document",

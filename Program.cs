@@ -16,7 +16,8 @@ namespace ConsoleApp1
             //obj.StudentMarksSystem();
             //obj.EvenOddAnalyzer();
             //obj.NumberGuessingGame();
-            obj.LoginSystem();
+            //obj.LoginSystem();
+            obj.ATMMenu();
 
 
 

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Security.Cryptography;
 using System.Text;
+using System.Transactions;
 using System.Xml;
 
 namespace ConsoleApp1.Problem_Solving.Loop
@@ -121,7 +122,7 @@ namespace ConsoleApp1.Problem_Solving.Loop
 
         public void LoginSystem()
         {
-            string  pass = "1234";
+            string pass = "1234";
             string user = "rial";
             int guessCount = 0;
 
@@ -133,22 +134,76 @@ namespace ConsoleApp1.Problem_Solving.Loop
                 string password = Console.ReadLine();
 
                 guessCount++;
-                if(pass == password && user == userId)
+                if (pass == password && user == userId)
                 {
                     Console.WriteLine("correct userid and pass ");
                     break;
                 }
-                else 
+                else
                 {
 
                     Console.WriteLine("incorrect userid and pass ");
                 }
 
-                if(guessCount == 3)
+                if (guessCount == 3)
                 {
-                    break; 
+                    break;
                 }
-            }            
+            }
+        }
+        public void ATMMenu()
+        {
+            int balance = 5000;
+            int choice ;
+
+            do
+            {
+                // menu 
+                Console.WriteLine("1.balance");
+                Console.WriteLine("2.deposite");
+                Console.WriteLine("3.witdraw");
+                Console.WriteLine("4.exit");
+
+                Console.WriteLine("Enter your choice ");
+                choice = Convert.ToInt32(Console.ReadLine());
+
+                switch (choice)
+                {
+                    case 1:
+                        Console.WriteLine(balance);
+                        break;
+                    case 2: 
+                        Console.WriteLine("enter your deposit amount : ");
+                        int deposit = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine($"your deposit amount is : {deposit}");
+                        int currentBalance = (deposit + balance);
+                        Console.WriteLine("total balance ${0}" , currentBalance);
+                        break;
+                    case 3:
+                        Console.WriteLine("enter your Witdraw ammount : ");
+                        int witdraw = Convert.ToInt32(Console.ReadLine()); 
+
+                        if(witdraw < balance)
+                        {
+                            Console.WriteLine("Your witdraw amount is : ");
+                            Console.WriteLine("Your current balance is : " + (balance - witdraw));
+
+                        }
+                        else
+                        {
+                            Console.WriteLine("insufficient balance");
+                        }
+                        break;
+                        case 4:
+
+                        Console.WriteLine("thank you ");
+                        break; 
+                }
+
+
+
+            }
+            while (choice != 4);
         }
     }
 }
