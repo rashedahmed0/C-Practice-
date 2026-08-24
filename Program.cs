@@ -12,8 +12,17 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            StringEXamples obj = new StringEXamples();
-            obj.StringExample();
+
+            ArrayExample obj = new ArrayExample();
+            obj.SingleArray();
+            obj.multidimensional();
+            obj.JaggedArray();
+
+
+
+
+            //StringEXamples obj = new StringEXamples();
+            //obj.StringExample();
 
 
 
