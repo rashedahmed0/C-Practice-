@@ -12,12 +12,31 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            LoopProblemSolving obj = new LoopProblemSolving();
+            StringEXamples obj = new StringEXamples();
+            obj.StringExample();
+
+
+
+            //MethodsExample obj = new MethodsExample();
+            //obj.Method1();
+            //obj.Parameters("Rial");
+            //obj.Parameters2(5, 10);
+            //int result = obj.ReturnType(5, 10);
+            //Console.WriteLine(result);
+            //obj.OptionalParameters("Rashed");
+            //obj.OptionalParameters();
+            //obj.NamedParameter(name : "rial" , age : 25);
+            //obj.MethodOverloading(2,5);
+            //obj.MethodOverloading(2,5,10);
+
+
+
+            //LoopProblemSolving obj = new LoopProblemSolving();
             //obj.StudentMarksSystem();
             //obj.EvenOddAnalyzer();
             //obj.NumberGuessingGame();
             //obj.LoginSystem();
-            obj.ATMMenu();
+            //obj.ATMMenu();
 
 
 
