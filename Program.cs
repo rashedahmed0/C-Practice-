@@ -1,4 +1,5 @@
 ﻿using ConsoleApp1.Example;
+using ConsoleApp1.Problem_Solving.Array;
 using ConsoleApp1.Problem_Solving.Condition.BasicProblem;
 using ConsoleApp1.Problem_Solving.Loop;
 using ConsoleApp1.Problem_Solving.Operator;
@@ -13,10 +14,14 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            ArrayExample obj = new ArrayExample();
-            obj.SingleArray();
-            obj.multidimensional();
-            obj.JaggedArray();
+            ArrayProblem obj = new ArrayProblem();
+            obj.StudentMarksAnalyzer();
+
+
+            //ArrayExample obj = new ArrayExample();
+            //obj.SingleArray();
+            //obj.multidimensional();
+            //obj.JaggedArray();
 
 
 
