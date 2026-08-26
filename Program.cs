@@ -15,7 +15,9 @@ namespace ConsoleApp1
         {
 
             ArrayProblem obj = new ArrayProblem();
-            obj.StudentMarksAnalyzer();
+            //obj.StudentMarksAnalyzer();
+            //obj.NumberSearchSystem();
+            obj.EvenOddAnalyzer();
 
 
             //ArrayExample obj = new ArrayExample();
