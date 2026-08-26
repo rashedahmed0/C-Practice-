@@ -1,4 +1,5 @@
-﻿using ConsoleApp1.Example;
+﻿using ConsoleApp1.BigProject.StudentManagementSystem;
+using ConsoleApp1.Example;
 using ConsoleApp1.Problem_Solving.Array;
 using ConsoleApp1.Problem_Solving.Condition.BasicProblem;
 using ConsoleApp1.Problem_Solving.Loop;
@@ -14,10 +15,14 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            ArrayProblem obj = new ArrayProblem();
+            StudentManagementSystem obj = new StudentManagementSystem();
+            obj.StudentManagementSystemProject();
+
+
+            //ArrayProblem obj = new ArrayProblem();
             //obj.StudentMarksAnalyzer();
             //obj.NumberSearchSystem();
-            obj.EvenOddAnalyzer();
+            //obj.EvenOddAnalyzer();
 
 
             //ArrayExample obj = new ArrayExample();
