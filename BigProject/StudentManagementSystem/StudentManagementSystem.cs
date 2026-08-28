@@ -116,6 +116,30 @@ namespace ConsoleApp1.BigProject.StudentManagementSystem
                         break;
                     case 3:
                         Console.WriteLine("Search Student");
+                        for (int i = 0; i < studentCount; i++)
+                        {
+                            Student student = students[i];
+                            Console.WriteLine("enter Student roll number : ");
+                            int roll = Convert.ToInt32(Console.ReadLine());
+                            if (roll == student.StudentId)
+                            {
+                                Console.Write(student.StudentId.ToString().PadRight(20));
+                                Console.Write(student.Name.PadRight(20));
+                                Console.Write(student.Age.ToString().PadRight(20));
+                                Console.Write(student.Phone.ToString().PadRight(20));
+                                Console.Write(student.Email.PadRight(20));
+                                Console.Write(student.Departmne.PadRight(20));
+                                Console.Write(student.Semester.ToString().PadRight(20));
+                                Console.Write(student.GPA.ToString().PadRight(20));
+                                Console.Write(student.Address.PadRight(20));
+                            }
+                            else
+                            {
+                                Console.WriteLine("enter right roll number ");
+                            }
+
+
+                        } 
                         break;
                     case 4:
                         Console.WriteLine("Update Student");

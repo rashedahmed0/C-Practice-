@@ -90,8 +90,7 @@
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T03:18:01.4Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -137,8 +136,7 @@
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAAD8VAAAAAAAAAAAowE4VAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-08-26T18:04:58.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T18:04:58.113Z"
             },
             {
               "$type": "Document",
@@ -146,9 +144,9 @@
               "Title": "StudentManagementSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\BigProject\\StudentManagementSystem\\StudentManagementSystem.cs",
               "RelativeDocumentMoniker": "BigProject\\StudentManagementSystem\\StudentManagementSystem.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\BigProject\\StudentManagementSystem\\StudentManagementSystem.cs",
-              "RelativeToolTip": "BigProject\\StudentManagementSystem\\StudentManagementSystem.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAkwHUAAAAeAAAAAAAAAA==",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\BigProject\\StudentManagementSystem\\StudentManagementSystem.cs*",
+              "RelativeToolTip": "BigProject\\StudentManagementSystem\\StudentManagementSystem.cs*",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAYwHcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-26T14:42:41.646Z",
               "EditorCaption": ""
@@ -163,8 +161,7 @@
               "RelativeToolTip": "Problem Solving\\Array\\ArrayProblem.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T03:16:47.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T03:16:47.662Z"
             },
             {
               "$type": "Document",
@@ -176,8 +173,7 @@
               "RelativeToolTip": "Example\\ArrayExample.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-24T04:06:56.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-24T04:06:56.981Z"
             },
             {
               "$type": "Document",
@@ -213,8 +209,7 @@
               "RelativeToolTip": "Problem Solving\\Loop\\LoopProblemSolving.cs",
               "ViewState": "AgIAAKMAAAAAAAAAAAAUwKMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T16:24:39.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-18T16:24:39.271Z"
             },
             {
               "$type": "Document",
@@ -274,8 +269,7 @@
               "RelativeToolTip": "Problem Solving\\Condition\\BasicProblem\\IfExample.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T04:03:53.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-12T04:03:53.421Z"
             },
             {
               "$type": "Document",
@@ -311,8 +305,7 @@
               "RelativeToolTip": "ConsoleApp1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-12T03:55:49.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-12T03:55:49.535Z"
             },
             {
               "$type": "Document",
