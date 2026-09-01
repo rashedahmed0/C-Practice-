@@ -143,6 +143,47 @@ namespace ConsoleApp1.BigProject.StudentManagementSystem
                         break;
                     case 4:
                         Console.WriteLine("Update Student");
+
+
+                                Console.WriteLine("enter student roll no. : ");
+                        int rollId = Convert.ToInt32(Console.ReadLine());
+
+                        for(int i = 0 ; i < studentCount; i++)
+                        {
+                            Student student = students[i];
+                            if(rollId == student.StudentId)
+                            {
+                                Console.WriteLine("Age : ");
+                                age = Convert.ToInt32(Console.ReadLine());
+                                Console.WriteLine("Phone : ");
+                                phone = Console.ReadLine();
+                                Console.WriteLine("Semester : ");
+                                semester = Convert.ToInt32(Console.ReadLine());
+                                Console.WriteLine("GPA : ");
+                                 gpa = Convert.ToDouble(Console.ReadLine());
+                                Console.WriteLine("Name : ");
+                                 name = Console.ReadLine();
+                                Console.WriteLine("Gender : ");
+                                 gender = Console.ReadLine();
+                                Console.WriteLine("Email : ");
+                                 email = Console.ReadLine();
+                                Console.WriteLine("Departmne : ");
+                                 departmne = Console.ReadLine();
+                                Console.WriteLine("Address : ");
+                                 address = Console.ReadLine();
+
+                                students[i] = student;
+
+                                Console.WriteLine("Update Student Successfully");
+
+
+                            }
+                            else
+                            {
+                                Console.WriteLine("Enter the right roll number");
+                            }
+                        }
+
                         break;
                     case 5:
                         Console.WriteLine("Delete Student");
