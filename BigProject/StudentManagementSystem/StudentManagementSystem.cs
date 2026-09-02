@@ -172,6 +172,16 @@ namespace ConsoleApp1.BigProject.StudentManagementSystem
                                 Console.WriteLine("Address : ");
                                  address = Console.ReadLine();
 
+                                student.Age = age;
+                                student.Phone = phone;
+                                student.Semester = semester;
+                                student.GPA = gpa;
+                                student.Name = name;
+                                student.Gender = gender;
+                                student.Email = email;
+                                student.Departmne = departmne;
+                                student.Address = address;
+
                                 students[i] = student;
 
                                 Console.WriteLine("Update Student Successfully");
@@ -187,6 +197,26 @@ namespace ConsoleApp1.BigProject.StudentManagementSystem
                         break;
                     case 5:
                         Console.WriteLine("Delete Student");
+
+                        Console.WriteLine("Enter student roll no. : ");
+                        int rollNumber = Convert.ToInt32(Console.ReadLine());
+                        for(int i = 0; i < studentCount; i++) {
+                            Student student = students[i]; 
+                            if(rollNumber == student.StudentId)
+                            {
+                                for(int j = i; j < studentCount - 1; j++)
+                                {
+                                    students[j] = students[j + 1];
+
+                                }
+                                studentCount--;
+                                Console.WriteLine("Student deleted successfully");
+                            }
+                            else
+                            {
+                                Console.WriteLine("Enter the right roll number");
+                            }
+                        }
                         break;
                     case 6:
                         Console.WriteLine("Student Result");

@@ -1,4 +1,5 @@
-﻿using ConsoleApp1.BigProject.StudentManagementSystem;
+﻿using ConsoleApp1.BigProject.BankManagementSystem;
+using ConsoleApp1.BigProject.StudentManagementSystem;
 using ConsoleApp1.Example;
 using ConsoleApp1.Problem_Solving.Array;
 using ConsoleApp1.Problem_Solving.Condition.BasicProblem;
@@ -15,8 +16,12 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            StudentManagementSystem obj = new StudentManagementSystem();
-            obj.StudentManagementSystemProject();
+            BankManagementSystem obj = new BankManagementSystem();
+            obj.BankManagementSystemProject();
+
+
+            //StudentManagementSystem obj = new StudentManagementSystem();
+            //obj.StudentManagementSystemProject();
 
 
             //ArrayProblem obj = new ArrayProblem();
