@@ -33,7 +33,7 @@ namespace ConsoleApp1.Problem_Solving.Queue
 
             numbers.Clear();
 
-                Console.WriteLine("after clear : " + numbers.Count);
+                  Console.WriteLine("after clear : " + numbers.Count);
 
 
         }

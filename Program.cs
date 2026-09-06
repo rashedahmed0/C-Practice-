@@ -3,10 +3,12 @@ using ConsoleApp1.BigProject.StudentManagementSystem;
 using ConsoleApp1.Example;
 using ConsoleApp1.Problem_Solving.Array;
 using ConsoleApp1.Problem_Solving.Condition.BasicProblem;
+using ConsoleApp1.Problem_Solving.Enum;
 using ConsoleApp1.Problem_Solving.List;
 using ConsoleApp1.Problem_Solving.Loop;
 using ConsoleApp1.Problem_Solving.Operator;
 using ConsoleApp1.Problem_Solving.Queue;
+using ConsoleApp1.Problem_Solving.TryCatchThrow;
 using ConsoleApp1.Problem_Solving.Variable;
 using ConsoleApp1.Syntax.Variable_Syntax;
 using System.Net.Http.Headers;
@@ -17,8 +19,16 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            QueueExmaple obj = new QueueExmaple();
-            obj.QueueProblem();
+            Enums obj = new Enums();
+            obj.EnumsExample();
+
+
+            //TryCatchfinalThrow obj = new TryCatchfinalThrow();
+            //obj.TryCatchExample();
+
+
+            //QueueExmaple obj = new QueueExmaple();
+            //obj.QueueProblem();
 
 
 

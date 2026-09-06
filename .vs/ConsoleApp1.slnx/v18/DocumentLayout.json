@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\C# Practice\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\problem solving\\queue\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:problem solving\\queue\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\problem solving\\enum\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:problem solving\\enum\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\problem solving\\trycatchthrow\\trycatchfinalthrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:problem solving\\trycatchthrow\\trycatchfinalthrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\problem solving\\queue\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:problem solving\\queue\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\problem solving\\list\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,7 +97,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -99,10 +107,23 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T03:18:01.4Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Enum\\Enums.cs",
+              "RelativeDocumentMoniker": "Problem Solving\\Enum\\Enums.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Enum\\Enums.cs*",
+              "RelativeToolTip": "Problem Solving\\Enum\\Enums.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAzwCoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T06:47:24.505Z",
               "EditorCaption": ""
             },
             {
@@ -143,20 +164,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "TryCatchfinalThrow.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\TryCatchThrow\\TryCatchfinalThrow.cs",
+              "RelativeDocumentMoniker": "Problem Solving\\TryCatchThrow\\TryCatchfinalThrow.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\TryCatchThrow\\TryCatchfinalThrow.cs",
+              "RelativeToolTip": "Problem Solving\\TryCatchThrow\\TryCatchfinalThrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T05:31:29.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Queue.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Queue\\Queue.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Queue\\Queue.cs",
               "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Queue\\Queue.cs",
               "RelativeToolTip": "Problem Solving\\Queue\\Queue.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwCMAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T05:26:03.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "List.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\List\\List.cs",
               "RelativeDocumentMoniker": "Problem Solving\\List\\List.cs",
@@ -169,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "BankManagementSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\BigProject\\BankManagementSystem\\BankManagementSystem.cs",
               "RelativeDocumentMoniker": "BigProject\\BankManagementSystem\\BankManagementSystem.cs",
@@ -182,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -192,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "StudentManagementSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\BigProject\\StudentManagementSystem\\StudentManagementSystem.cs",
               "RelativeDocumentMoniker": "BigProject\\StudentManagementSystem\\StudentManagementSystem.cs",
@@ -204,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ArrayProblem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Array\\ArrayProblem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Array\\ArrayProblem.cs",
@@ -216,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ArrayExample.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\ArrayExample.cs",
               "RelativeDocumentMoniker": "Example\\ArrayExample.cs",
@@ -228,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "StringEXamples.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\StringEXamples.cs",
               "RelativeDocumentMoniker": "Example\\StringEXamples.cs",
@@ -240,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MethodsExample.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\MethodsExample.cs",
               "RelativeDocumentMoniker": "Example\\MethodsExample.cs",
@@ -252,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "LoopProblemSolving.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Loop\\LoopProblemSolving.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Loop\\LoopProblemSolving.cs",
@@ -264,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "SwitchProblem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\SwitchProblem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\SwitchProblem.cs",
@@ -276,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "NestedifProblem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\NestedifProblem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\NestedifProblem.cs",
@@ -288,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ElseIfProblem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\ElseIfProblem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\ElseIfProblem.cs",
@@ -300,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "IfElseProblem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\IfElseProblem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\IfElseProblem.cs",
@@ -312,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "IfExample.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\IfExample.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\IfExample.cs",
@@ -324,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Condition.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\Condition.cs",
               "RelativeDocumentMoniker": "Example\\Condition.cs",
@@ -336,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "LoopExmaple.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\LoopExmaple.cs",
               "RelativeDocumentMoniker": "Example\\LoopExmaple.cs",
@@ -348,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "ConsoleApp1.csproj",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\ConsoleApp1.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1.csproj",
@@ -360,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "InputOutputExample.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\InputOutputExample.cs",
               "RelativeDocumentMoniker": "Example\\InputOutputExample.cs",
