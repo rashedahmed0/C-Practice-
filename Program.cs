@@ -19,8 +19,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Enums obj = new Enums();
-            obj.EnumsExample();
+            EnumP obj = new EnumP();
+            obj.EnumpExmaple();
+
+
+            //Enums obj = new Enums();
+            //obj.EnumsExample();
 
 
             //TryCatchfinalThrow obj = new TryCatchfinalThrow();
