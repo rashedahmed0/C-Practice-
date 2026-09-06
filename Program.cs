@@ -3,8 +3,10 @@ using ConsoleApp1.BigProject.StudentManagementSystem;
 using ConsoleApp1.Example;
 using ConsoleApp1.Problem_Solving.Array;
 using ConsoleApp1.Problem_Solving.Condition.BasicProblem;
+using ConsoleApp1.Problem_Solving.List;
 using ConsoleApp1.Problem_Solving.Loop;
 using ConsoleApp1.Problem_Solving.Operator;
+using ConsoleApp1.Problem_Solving.Queue;
 using ConsoleApp1.Problem_Solving.Variable;
 using ConsoleApp1.Syntax.Variable_Syntax;
 using System.Net.Http.Headers;
@@ -15,9 +17,18 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            QueueExmaple obj = new QueueExmaple();
+            obj.QueueProblem();
 
-            BankManagementSystem obj = new BankManagementSystem();
-            obj.BankManagementSystemProject();
+
+
+
+
+            //List obj = new List();
+            //obj.listExample1();
+
+            //BankManagementSystem obj = new BankManagementSystem();
+            //obj.BankManagementSystemProject();
 
 
             //StudentManagementSystem obj = new StudentManagementSystem();
