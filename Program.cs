@@ -3,6 +3,7 @@ using ConsoleApp1.BigProject.StudentManagementSystem;
 using ConsoleApp1.Example;
 using ConsoleApp1.Problem_Solving.Array;
 using ConsoleApp1.Problem_Solving.Condition.BasicProblem;
+using ConsoleApp1.Problem_Solving.Dictionary;
 using ConsoleApp1.Problem_Solving.Enum;
 using ConsoleApp1.Problem_Solving.List;
 using ConsoleApp1.Problem_Solving.Loop;
@@ -19,8 +20,16 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            EnumP obj = new EnumP();
-            obj.EnumpExmaple();
+            DictionaryExample obj = new DictionaryExample();
+            obj.DictionaryMethod();
+
+
+            //EnumTP obj = new EnumTP();
+            //obj.EnumTPExample();
+
+
+            //EnumP obj = new EnumP();
+            //obj.EnumpExmaple();
 
 
             //Enums obj = new Enums();
