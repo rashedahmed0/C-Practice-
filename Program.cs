@@ -1,6 +1,7 @@
 ﻿using ConsoleApp1.BigProject.BankManagementSystem;
 using ConsoleApp1.BigProject.StudentManagementSystem;
 using ConsoleApp1.Example;
+using ConsoleApp1.OOP.Basic;
 using ConsoleApp1.Problem_Solving.Array;
 using ConsoleApp1.Problem_Solving.Condition.BasicProblem;
 using ConsoleApp1.Problem_Solving.Dictionary;
@@ -20,8 +21,20 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            DictionaryExample obj = new DictionaryExample();
-            obj.DictionaryMethod();
+            Employees emp1 = new Employees();
+            emp1.Accept(1, "rashed" , 26);
+            emp1.Display();
+
+            Employees emp2 = new Employees();
+            emp2.Accept(2, "dipti" , 29);
+            emp2.Display();
+
+            Employees emp3 = new Employees();
+            emp3.Accept(3 , "dinar" ,37);
+            emp3.Display(); 
+
+            //DictionaryExample obj = new DictionaryExample();
+            //obj.DictionaryMethod();
 
 
             //EnumTP obj = new EnumTP();
@@ -263,5 +276,7 @@ namespace ConsoleApp1
 
             //Console.WriteLine("Hello, World!");
         }
-}
+
+    
+    }
 }
