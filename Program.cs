@@ -2,6 +2,7 @@
 using ConsoleApp1.BigProject.StudentManagementSystem;
 using ConsoleApp1.Example;
 using ConsoleApp1.OOP.Basic;
+using ConsoleApp1.OOP.Basic.Instance_And_Static_Practice;
 using ConsoleApp1.Problem_Solving.Array;
 using ConsoleApp1.Problem_Solving.Condition.BasicProblem;
 using ConsoleApp1.Problem_Solving.Dictionary;
@@ -21,17 +22,71 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Employees emp1 = new Employees();
-            emp1.Accept(1, "rashed" , 26);
-            emp1.Display();
 
-            Employees emp2 = new Employees();
-            emp2.Accept(2, "dipti" , 29);
-            emp2.Display();
+            Calculator num1 = new Calculator();
+            num1.Accept(5 , 10);
+            num1.Add();
+            num1.Div();
+            num1.Minus();
+            num1.Mult();
 
-            Employees emp3 = new Employees();
-            emp3.Accept(3 , "dinar" ,37);
-            emp3.Display(); 
+
+            //BankAccount bankholder1 = new BankAccount();
+            //bankholder1.BankAccept(1101 ,"Rial" , 5000);
+            //bankholder1.BankDisplay();
+
+            //BankAccount bankholder2 = new BankAccount();
+            //bankholder2.BankAccept(2202 ,"Rashed" , 15000);
+            //bankholder2.BankDisplay();
+
+
+
+
+            //InstanceAndStaticExample emp1 = new InstanceAndStaticExample();
+            //emp1.EmployeeAccepct("rial" , "developer");
+            //emp1.EmployeeDisplay();
+            //InstanceAndStaticExample emp2 = new InstanceAndStaticExample();
+            //emp2.EmployeeAccepct("dipto" , "designer");
+            //emp2.EmployeeDisplay();
+
+
+            //InstanceAndStaticExample stdnt1 = new InstanceAndStaticExample();
+            //stdnt1.StudentAccept("rashed" , 1);
+            //stdnt1.StudentDisplay();
+            //InstanceAndStaticExample stdnt2 = new InstanceAndStaticExample();
+            //stdnt2.StudentAccept("rial" ,     2);
+            //stdnt2.StudentDisplay();
+
+
+            //InstanceExample obj = new InstanceExample();
+            //Console.WriteLine(obj.x);
+            //obj.fun1();
+
+
+
+            //Console.WriteLine("this is global static variable : " + StaticExamples.b);
+            //StaticExamples.fun();
+
+
+            //Students stdnt1 = new Students();
+            //stdnt1.Accept(1, "rashed" , 23, "dhaka", "male");
+            //stdnt1.Display();
+
+            //Students stdnt2 = new Students();
+            //stdnt2.Accept(2, "rial" , 26, "palash", "male");
+            //stdnt2.Display();
+
+            //Employees emp1 = new Employees();
+            //emp1.Accept(1, "rashed" , 26);
+            //emp1.Display();
+
+            //Employees emp2 = new Employees();
+            //emp2.Accept(2, "dipti" , 29);
+            //emp2.Display();
+
+            //Employees emp3 = new Employees();
+            //emp3.Accept(3 , "dinar" ,37);
+            //emp3.Display(); 
 
             //DictionaryExample obj = new DictionaryExample();
             //obj.DictionaryMethod();
