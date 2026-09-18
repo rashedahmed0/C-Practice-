@@ -22,13 +22,99 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            ParameterANDReturnType obj = new ParameterANDReturnType();
+            //obj.Square();
+            //obj.Square2(2);
+            //int data = obj.Square1();
+            //Console.WriteLine(data);
+            int data = obj.Square3(2);
+            Console.WriteLine(data);
 
-            Calculator num1 = new Calculator();
-            num1.Accept(5 , 10);
-            num1.Add();
-            num1.Div();
-            num1.Minus();
-            num1.Mult();
+
+
+            //Calculator[] obj = new Calculator[3];
+            //for (int i = 0; i < obj.Length; i++) {
+            //    obj[i] = new Calculator();
+            //    Console.WriteLine("enter first nubmer : ");
+            //    int a = Convert.ToInt32(Console.ReadLine());
+            //    Console.WriteLine("enter second nubmer : ");
+            //    int b = Convert.ToInt32(Console.ReadLine());
+
+            //    obj[i].Accept(a , b );
+            //}
+            //for(int i = 0; i < obj.Length; i++)
+            //{
+            //    obj[i].Add();
+            //    obj[i].Div();
+            //    obj[i].Minus();
+            //    obj[i].Mult();
+            //}
+
+
+            //BankAccount[] obj = new BankAccount[3];
+            //for(int i = 0; i < obj.Length; i++)
+            //{
+            //    obj[i] = new BankAccount();
+
+            //    Console.WriteLine("enter AccountNumber");
+            //    int AccountNumber = Convert.ToInt32(Console.ReadLine());
+            //    Console.WriteLine("enter AccountHolder");
+            //    string AccountHolder = Console.ReadLine();
+            //    Console.WriteLine("enter Balance");
+            //    int Balance = Convert.ToInt32(Console.ReadLine());
+
+            //    obj[i].BankAccept(AccountNumber, AccountHolder, Balance);
+
+            //}
+            //for(int i = 0; i < obj.Length; i++)
+            //{
+            //    obj[i].BankDisplay();
+            //}
+
+
+
+
+            //StudentResult[] obj = new StudentResult[3];
+            //for (int i = 0; i < obj.Length; i++)
+            //{
+            //    obj[i] = new StudentResult();
+            //    Console.WriteLine("Enter the roll");
+            //    int roll = Convert.ToInt32(Console.ReadLine());
+            //    Console.WriteLine("Enter the fee");
+            //    int fee = Convert.ToInt32(Console.ReadLine());
+            //    obj[i].AcceptFR(roll ,  fee);
+            //}
+            //for (int i = 0; i < obj.Length; i++)
+            //{
+            //    obj[i].DisplayFR();
+            //} 
+            //int maxFee = 0;
+            //for (int i = 0; i < obj.Length; i++)
+            //{
+            //    if(maxFee < obj[i].Fee)
+            //    {
+            //        maxFee = obj[i].Fee;
+            //    }
+            //}
+
+            //Console.WriteLine( "max fee is " + maxFee);
+
+
+            //StudentResult stnd1 = new StudentResult();
+            //stnd1.Accept("Rial" , 89 , 65, 77 );
+            //stnd1.Display();
+
+            //StudentResult stnd2 = new StudentResult();
+            //stnd2.Accept("Rashed" , 34 , 55, 71 );
+            //stnd2.Display();
+
+
+            //Calculator num1 = new Calculator();
+            //num1.Accept(5 , 10);
+            //num1.Add();
+            //num1.Div();
+            //num1.Minus();
+            //num1.Mult();
 
 
             //BankAccount bankholder1 = new BankAccount();
@@ -332,6 +418,6 @@ namespace ConsoleApp1
             //Console.WriteLine("Hello, World!");
         }
 
-    
+
     }
 }
