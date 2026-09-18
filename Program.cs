@@ -2,6 +2,7 @@
 using ConsoleApp1.BigProject.StudentManagementSystem;
 using ConsoleApp1.Example;
 using ConsoleApp1.OOP.Basic;
+using ConsoleApp1.OOP.Basic.Constractor;
 using ConsoleApp1.OOP.Basic.Instance_And_Static_Practice;
 using ConsoleApp1.Problem_Solving.Array;
 using ConsoleApp1.Problem_Solving.Condition.BasicProblem;
@@ -20,15 +21,37 @@ namespace ConsoleApp1
 {
     public class Program
     {
+
+        static void ProgamEx()
+        {
+            Console.WriteLine("static program ");
+        }
         static void Main(string[] args)
         {
-            ParameterANDReturnType obj = new ParameterANDReturnType();
+
+            PropertyExamples obj = new PropertyExamples();
+            obj._Width = 200;
+            Console.WriteLine(obj._Width);
+
+            obj._Height = 500;
+            Console.WriteLine(obj._Height);
+
+            //CopyConstructor obj = new CopyConstructor(); 
+            //CopyConstructor obj1 = new CopyConstructor(obj);
+            //CopyConstructor obj2 = new CopyConstructor(5, 10);
+
+
+            //Constructor1 obj = new Constructor1();
+
+
+
+            //ParameterANDReturnType obj = new ParameterANDReturnType();
             //obj.Square();
             //obj.Square2(2);
             //int data = obj.Square1();
             //Console.WriteLine(data);
-            int data = obj.Square3(2);
-            Console.WriteLine(data);
+            //int data = obj.Square3(2);
+            //Console.WriteLine(data);
 
 
 
