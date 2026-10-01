@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\C# Practice\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\recap1\\operator\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:recap1\\operator\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\recap1\\condition\\conditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:recap1\\condition\\conditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\recap1\\operator\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:recap1\\operator\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\recap1\\input output\\inputoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -277,7 +277,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -295,26 +295,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Operators.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\RECAP1\\Operator\\Operators.cs",
               "RelativeDocumentMoniker": "RECAP1\\Operator\\Operators.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\RECAP1\\Operator\\Operators.cs*",
-              "RelativeToolTip": "RECAP1\\Operator\\Operators.cs*",
-              "ViewState": "AgIAABwAAAAAAAAAAAAUwDAAAAAjAAAAAAAAAA==",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\RECAP1\\Operator\\Operators.cs",
+              "RelativeToolTip": "RECAP1\\Operator\\Operators.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-01T15:56:12.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Conditions.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\RECAP1\\Condition\\Conditions.cs",
               "RelativeDocumentMoniker": "RECAP1\\Condition\\Conditions.cs",
-              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\RECAP1\\Condition\\Conditions.cs*",
-              "RelativeToolTip": "RECAP1\\Condition\\Conditions.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\RECAP1\\Condition\\Conditions.cs",
+              "RelativeToolTip": "RECAP1\\Condition\\Conditions.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-01T15:55:15.412Z",
               "EditorCaption": ""

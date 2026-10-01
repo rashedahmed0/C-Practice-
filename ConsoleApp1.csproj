@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <Folder Include="Practice\" />
+    <Folder Include="RECAP1\NewFolder\" />
   </ItemGroup>
 
 </Project>
