@@ -1,9 +1,17 @@
 ﻿using ConsoleApp1.BigProject.BankManagementSystem;
 using ConsoleApp1.BigProject.StudentManagementSystem;
 using ConsoleApp1.Example;
-using ConsoleApp1.OOP.Basic;
+using ConsoleApp1.OOP.Abstract;
+
+//using ConsoleApp1.OOP.Basic;
+using ConsoleApp1.OOP.Basic.Abstruction;
 using ConsoleApp1.OOP.Basic.Constractor;
+using ConsoleApp1.OOP.Basic.Inheritance;
+using ConsoleApp1.OOP.Basic.Inheritance.Area;
 using ConsoleApp1.OOP.Basic.Instance_And_Static_Practice;
+//using ConsoleApp1.OOP.Encapsulation;
+using ConsoleApp1.OOP.Inheritance;
+using ConsoleApp1.OOP.Polymorphism;
 using ConsoleApp1.Problem_Solving.Array;
 using ConsoleApp1.Problem_Solving.Condition.BasicProblem;
 using ConsoleApp1.Problem_Solving.Dictionary;
@@ -28,13 +36,153 @@ namespace ConsoleApp1
         }
         static void Main(string[] args)
         {
+            Sum obj = new Sum();
+            obj.AcceptCalcution(5, 2);
+            obj.Minuss();
+            obj.Sums();
+            obj.Multi(); 
 
-            PropertyExamples obj = new PropertyExamples();
-            obj._Width = 200;
-            Console.WriteLine(obj._Width);
 
-            obj._Height = 500;
-            Console.WriteLine(obj._Height);
+
+            //Cat obj = new Cat();
+            //obj.AcceptAnamal("harry");
+            //obj.DisplayAnimal();
+            //obj.Sound();
+
+
+            //Dog obj1 = new Dog();
+            //obj1.AcceptAnamal("tomy");
+            //obj1.DisplayAnimal();
+            //obj1.Sound(); 
+
+
+
+
+
+            //Developer dev1 = new Developer();
+
+
+
+
+            //Employees Emp1 = new Employees();
+            //Emp1.AcceptPerson("Rased" , 25);
+            //Emp1.AcceptEmployee(10000);
+            //Emp1.DisplayEmployee(); 
+
+
+            //Students obj = new Students();
+            //obj.AcceptPerson("Rial" , 25);
+            //obj.AcceptStudent(101);
+            //obj.DisplayStudents();
+
+
+            //Person preson = new Person();
+            //preson.AcceptPerson("rial" ,22);
+            //preson.DisplayPerson();
+
+            //Person preson1 = new Person();
+            //preson1.AcceptPerson("Rashed" ,22);
+            //preson1.DisplayPerson();
+
+
+            //Products obj = new Products();
+            //obj.ProductId = 101;
+            //obj.ProductPrice = 350;
+            //obj.ProductQuantity = 3;
+            //obj.Calculation();
+            //obj.Display();
+
+
+            //Banks obj = new Banks();
+            //obj.AcceptBank("rial" , 011 , 10000);
+            //obj.Deposit(5000);
+            //obj.Withdraw(2000);
+            //obj.Display();
+
+            //Students obj = new Students();
+            //obj.AcceptStudent("rial" , 01 , 25);
+            //obj.DisplayStudent();
+            //Students obj1 = new Students();
+            //obj1.AcceptStudent("rashed" , 02 , 26);
+            //obj1.DisplayStudent();
+
+
+
+            //AbstructionBasicExample obj = new AbstractBasixExamleChild();
+            //obj.AcceptAB(5,2);
+            //obj.Triangle();
+            //obj.DisplayArea();
+
+
+            //AbstructionBasicExample obj1 = new AbstractBasixExamleChild();
+            //obj1.AcceptAB(5,10);
+            //obj1.Ractangle();
+            //obj1.DisplayArea();
+
+
+
+            //CAreacs obj = new CAreacs();
+            //obj.AccecptCircle(10);
+            //obj.AreaCircle();
+            //obj.DisplaryCircle();
+
+
+            //TArea obj1 = new TArea();
+            //obj1.TriangleAccept(5);
+            //obj1.TriangleArea();
+            //obj1.DisplayAreat();
+
+
+            //RactangleArea obj2 = new RactangleArea();
+            //obj2.AcceptRactange(5);
+            //obj2.AccecptCircle(10);
+            //obj2.RactangeArea();
+            //obj2.DisplayRactange();
+
+
+
+
+
+            //Employee obj = new Employee();
+            //obj.BossContainer();
+            //obj.ManagerContainer();
+            //obj.EmployeeContainer();
+
+
+            //C obj = new C();
+            //obj.Fun1();
+            //obj.Fun2();
+            //obj.Fun3();
+
+
+            //A obj = new A(); 
+            //A obj1 = new B();
+            //B obj2 = new B(); 
+            ////B obj3 = new A(); // not possible 
+            //obj.Fun();
+            //obj1.Fun();
+            //obj2.Fun();
+            //obj.Fun1();
+            //obj1.Fun1();
+            //obj2.Fun1();
+
+
+
+            //OverridingC obj = new OverridingC();
+            //obj.func();
+
+            //OverloadingExmple obj = new OverloadingExmple();
+            //obj.add(5,7);
+            //obj.add(5,7,9);
+            //obj.add(5,7,9,2);
+
+
+            //PropertyExamples obj = new PropertyExamples();
+            //obj._Width = 200;
+            //Console.WriteLine(obj._Width);
+
+            //obj._Height = 500;
+            //Console.WriteLine(obj._Height);
 
             //CopyConstructor obj = new CopyConstructor(); 
             //CopyConstructor obj1 = new CopyConstructor(obj);
