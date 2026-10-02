@@ -22,6 +22,7 @@ using ConsoleApp1.Problem_Solving.Operator;
 using ConsoleApp1.Problem_Solving.Queue;
 using ConsoleApp1.Problem_Solving.TryCatchThrow;
 using ConsoleApp1.Problem_Solving.Variable;
+using ConsoleApp1.RECAP1.String;
 using ConsoleApp1.RECAP1.Variables___Data_Types;
 using ConsoleApp1.Syntax.Variable_Syntax;
 using System.Net.Http.Headers;
@@ -37,10 +38,16 @@ namespace ConsoleApp1
         }
         static void Main(string[] args)
         {
-            VariablesDataTypes obj = new VariablesDataTypes();
+
+
+            StringExamples obj = new StringExamples();
+            obj.StringExample1();
+
+
+            //VariablesDataTypes obj = new VariablesDataTypes();
             //obj.StudentInformation();
             //obj.ProductPrice();
-            obj.typeConversion();
+            //obj.typeConversion();
             //obj.tepmeratureConversion();
 
 

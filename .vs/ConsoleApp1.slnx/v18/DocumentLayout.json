@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\C# Practice\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\recap1\\string\\stringexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:recap1\\string\\stringexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\recap1\\loop\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:recap1\\loop\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\recap1\\variables \u0026 data types\\variablesdatatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:recap1\\variables \u0026 data types\\variablesdatatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|e:\\c# practice\\consoleapp1\\oop\\polymorfism\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -285,26 +289,40 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\C# Practice\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwCoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T03:18:01.4Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StringExamples.cs",
+              "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\RECAP1\\String\\StringExamples.cs",
+              "RelativeDocumentMoniker": "RECAP1\\String\\StringExamples.cs",
+              "ToolTip": "E:\\C# Practice\\ConsoleApp1\\RECAP1\\String\\StringExamples.cs*",
+              "RelativeToolTip": "RECAP1\\String\\StringExamples.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwDoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:25:52.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Loop.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\RECAP1\\Loop\\Loop.cs",
               "RelativeDocumentMoniker": "RECAP1\\Loop\\Loop.cs",
               "ToolTip": "E:\\C# Practice\\ConsoleApp1\\RECAP1\\Loop\\Loop.cs",
               "RelativeToolTip": "RECAP1\\Loop\\Loop.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwDcAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwFMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-02T06:18:33.617Z",
               "EditorCaption": ""
@@ -343,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Operators.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\RECAP1\\Operator\\Operators.cs",
               "RelativeDocumentMoniker": "RECAP1\\Operator\\Operators.cs",
@@ -355,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Conditions.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\RECAP1\\Condition\\Conditions.cs",
               "RelativeDocumentMoniker": "RECAP1\\Condition\\Conditions.cs",
@@ -368,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "InputOutput.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\RECAP1\\Input Output\\InputOutput.cs",
               "RelativeDocumentMoniker": "RECAP1\\Input Output\\InputOutput.cs",
@@ -380,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "VariablesDataTypes.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\RECAP1\\Variables \u0026 Data Types\\VariablesDataTypes.cs",
               "RelativeDocumentMoniker": "RECAP1\\Variables \u0026 Data Types\\VariablesDataTypes.cs",
@@ -392,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Calculation.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Polymorfism\\Calculation.cs",
               "RelativeDocumentMoniker": "OOP\\Polymorfism\\Calculation.cs",
@@ -404,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Sum.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Abstract\\Sum.cs",
               "RelativeDocumentMoniker": "OOP\\Abstract\\Sum.cs",
@@ -416,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Calculation.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Abstract\\Calculation.cs",
               "RelativeDocumentMoniker": "OOP\\Abstract\\Calculation.cs",
@@ -428,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Dog.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Abstract\\Dog.cs",
               "RelativeDocumentMoniker": "OOP\\Abstract\\Dog.cs",
@@ -440,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Cat.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Abstract\\Cat.cs",
               "RelativeDocumentMoniker": "OOP\\Abstract\\Cat.cs",
@@ -452,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Animal.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Abstract\\Animal.cs",
               "RelativeDocumentMoniker": "OOP\\Abstract\\Animal.cs",
@@ -464,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Developer.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Inheritance\\Developer.cs",
               "RelativeDocumentMoniker": "OOP\\Inheritance\\Developer.cs",
@@ -476,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Employees.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Inheritance\\Employees.cs",
               "RelativeDocumentMoniker": "OOP\\Inheritance\\Employees.cs",
@@ -488,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Person.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Inheritance\\Person.cs",
               "RelativeDocumentMoniker": "OOP\\Inheritance\\Person.cs",
@@ -500,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Students.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Inheritance\\Students.cs",
               "RelativeDocumentMoniker": "OOP\\Inheritance\\Students.cs",
@@ -512,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Products.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Encapsulation\\Products.cs",
               "RelativeDocumentMoniker": "OOP\\Encapsulation\\Products.cs",
@@ -524,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Banks.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Encapsulation\\Banks.cs",
               "RelativeDocumentMoniker": "OOP\\Encapsulation\\Banks.cs",
@@ -536,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Students.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Encapsulation\\Students.cs",
               "RelativeDocumentMoniker": "OOP\\Encapsulation\\Students.cs",
@@ -548,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "AbstractBasixExamleChild.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Abstruction\\AbstractBasixExamleChild.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Abstruction\\AbstractBasixExamleChild.cs",
@@ -560,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "AbstructionBasicExample.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Abstruction\\AbstructionBasicExample.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Abstruction\\AbstructionBasicExample.cs",
@@ -572,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "RactangleArea.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Inheritance\\Area\\RactangleArea.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Inheritance\\Area\\RactangleArea.cs",
@@ -584,7 +602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "TArea.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Inheritance\\Area\\TArea.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Inheritance\\Area\\TArea.cs",
@@ -596,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "CAreacs.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Inheritance\\Area\\CAreacs.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Inheritance\\Area\\CAreacs.cs",
@@ -608,7 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Employee.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Inheritance\\Employee.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Inheritance\\Employee.cs",
@@ -620,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Manager.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Inheritance\\Manager.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Inheritance\\Manager.cs",
@@ -632,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Boss.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Inheritance\\Boss.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Inheritance\\Boss.cs",
@@ -644,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "C.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Inheritance\\C.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Inheritance\\C.cs",
@@ -656,7 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "B.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Inheritance\\B.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Inheritance\\B.cs",
@@ -668,7 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "A.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Inheritance\\A.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Inheritance\\A.cs",
@@ -680,7 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "OverridingC.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Polymorphism\\OverridingC.cs",
               "RelativeDocumentMoniker": "OOP\\Polymorphism\\OverridingC.cs",
@@ -692,7 +710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "OverridingP.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Polymorphism\\OverridingP.cs",
               "RelativeDocumentMoniker": "OOP\\Polymorphism\\OverridingP.cs",
@@ -704,7 +722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "OverloadingExmple.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Polymorphism\\OverloadingExmple.cs",
               "RelativeDocumentMoniker": "OOP\\Polymorphism\\OverloadingExmple.cs",
@@ -716,7 +734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "PropertyExamples.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\PropertyExamples.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\PropertyExamples.cs",
@@ -728,7 +746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "CopyConstructor.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Constractor\\CopyConstructor.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Constractor\\CopyConstructor.cs",
@@ -740,7 +758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Constructor1.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Constractor\\Constructor1.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Constractor\\Constructor1.cs",
@@ -752,7 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "ParameterANDReturnType.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\ParameterANDReturnType.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\ParameterANDReturnType.cs",
@@ -764,7 +782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "StudentResult.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Instance And Static Practice\\StudentResult.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Instance And Static Practice\\StudentResult.cs",
@@ -776,7 +794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Calculator.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Instance And Static Practice\\Calculator.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Instance And Static Practice\\Calculator.cs",
@@ -788,7 +806,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "BankAccount.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Instance And Static Practice\\BankAccount.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Instance And Static Practice\\BankAccount.cs",
@@ -800,7 +818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "InstanceAndStaticExample.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Instance And Static Practice\\InstanceAndStaticExample.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Instance And Static Practice\\InstanceAndStaticExample.cs",
@@ -812,7 +830,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "InstanceExample.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\InstanceExample.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\InstanceExample.cs",
@@ -824,7 +842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "StaticExamples.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\StaticExamples.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\StaticExamples.cs",
@@ -836,7 +854,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "Students.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Students.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Students.cs",
@@ -848,7 +866,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "Employees.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\OOP\\Basic\\Employees.cs",
               "RelativeDocumentMoniker": "OOP\\Basic\\Employees.cs",
@@ -860,7 +878,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "DictionaryExample.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Dictionary\\DictionaryExample.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Dictionary\\DictionaryExample.cs",
@@ -872,7 +890,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "EnumTP.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Enum\\EnumTP.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Enum\\EnumTP.cs",
@@ -884,7 +902,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "EnumP.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Enum\\EnumP.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Enum\\EnumP.cs",
@@ -896,7 +914,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "TryCatchfinalThrow.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\TryCatchThrow\\TryCatchfinalThrow.cs",
               "RelativeDocumentMoniker": "Problem Solving\\TryCatchThrow\\TryCatchfinalThrow.cs",
@@ -908,7 +926,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "Queue.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Queue\\Queue.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Queue\\Queue.cs",
@@ -920,7 +938,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "List.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\List\\List.cs",
               "RelativeDocumentMoniker": "Problem Solving\\List\\List.cs",
@@ -932,7 +950,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "BankManagementSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\BigProject\\BankManagementSystem\\BankManagementSystem.cs",
               "RelativeDocumentMoniker": "BigProject\\BankManagementSystem\\BankManagementSystem.cs",
@@ -944,7 +962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -954,7 +972,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "StudentManagementSystem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\BigProject\\StudentManagementSystem\\StudentManagementSystem.cs",
               "RelativeDocumentMoniker": "BigProject\\StudentManagementSystem\\StudentManagementSystem.cs",
@@ -966,7 +984,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "ArrayProblem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Array\\ArrayProblem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Array\\ArrayProblem.cs",
@@ -978,7 +996,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "ArrayExample.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\ArrayExample.cs",
               "RelativeDocumentMoniker": "Example\\ArrayExample.cs",
@@ -990,7 +1008,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "StringEXamples.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\StringEXamples.cs",
               "RelativeDocumentMoniker": "Example\\StringEXamples.cs",
@@ -1002,7 +1020,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "MethodsExample.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\MethodsExample.cs",
               "RelativeDocumentMoniker": "Example\\MethodsExample.cs",
@@ -1014,7 +1032,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "LoopProblemSolving.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Loop\\LoopProblemSolving.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Loop\\LoopProblemSolving.cs",
@@ -1026,7 +1044,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "SwitchProblem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\SwitchProblem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\SwitchProblem.cs",
@@ -1038,7 +1056,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "NestedifProblem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\NestedifProblem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\NestedifProblem.cs",
@@ -1050,7 +1068,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "ElseIfProblem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\ElseIfProblem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\ElseIfProblem.cs",
@@ -1062,7 +1080,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "IfElseProblem.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\IfElseProblem.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\IfElseProblem.cs",
@@ -1074,7 +1092,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "IfExample.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Problem Solving\\Condition\\BasicProblem\\IfExample.cs",
               "RelativeDocumentMoniker": "Problem Solving\\Condition\\BasicProblem\\IfExample.cs",
@@ -1086,7 +1104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "Condition.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\Condition.cs",
               "RelativeDocumentMoniker": "Example\\Condition.cs",
@@ -1098,7 +1116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "LoopExmaple.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\LoopExmaple.cs",
               "RelativeDocumentMoniker": "Example\\LoopExmaple.cs",
@@ -1110,7 +1128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "ConsoleApp1.csproj",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\ConsoleApp1.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1.csproj",
@@ -1122,7 +1140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "InputOutputExample.cs",
               "DocumentMoniker": "E:\\C# Practice\\ConsoleApp1\\Example\\InputOutputExample.cs",
               "RelativeDocumentMoniker": "Example\\InputOutputExample.cs",
