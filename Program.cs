@@ -22,6 +22,8 @@ using ConsoleApp1.Problem_Solving.Operator;
 using ConsoleApp1.Problem_Solving.Queue;
 using ConsoleApp1.Problem_Solving.TryCatchThrow;
 using ConsoleApp1.Problem_Solving.Variable;
+using ConsoleApp1.RECAP1.Array;
+using ConsoleApp1.RECAP1.List;
 using ConsoleApp1.RECAP1.String;
 using ConsoleApp1.RECAP1.Variables___Data_Types;
 using ConsoleApp1.Syntax.Variable_Syntax;
@@ -40,8 +42,16 @@ namespace ConsoleApp1
         {
 
 
-            StringExamples obj = new StringExamples();
-            obj.StringExample1();
+            ListExmple obj = new ListExmple();
+            obj.liExamples();
+
+
+            //ArrayExamples obj = new ArrayExamples();
+            //obj.MultiDimensionalArr();
+
+
+            //StringExamples obj = new StringExamples();
+            //obj.StringExample1();
 
 
             //VariablesDataTypes obj = new VariablesDataTypes();
