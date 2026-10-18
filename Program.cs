@@ -40,10 +40,13 @@ namespace ConsoleApp1
         }
         static void Main(string[] args)
         {
+            SealedClass obj = new SealedClass();
+            obj.DisplayMessage();
 
 
-            ListExmple obj = new ListExmple();
-            obj.liExamples();
+
+            //ListExmple obj = new ListExmple();
+            //obj.liExamples();
 
 
             //ArrayExamples obj = new ArrayExamples();
